@@ -1,5 +1,7 @@
 # 🍕 Pizza Sales : SQL-Project
 
+![Pizza Sales Analysis]("C:\Users\HP\Pictures\Screenshots\Screenshot 2025-01-08 180323.png")
+
 ## 📖 Overview
 Welcome to the **SQL-Sales-Project** repository!  
 This project showcases my solutions to real-world sales questions derived from pizza order data. It includes:  
