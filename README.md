@@ -1,8 +1,7 @@
-# SQL-Sales-Project
-# 🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales : SQL-Project
 
 ## 📖 Overview
-Welcome to the **Pizza Sales Analysis** repository!  
+Welcome to the **SQL-Sales-Project** repository!  
 This project showcases my solutions to real-world sales questions derived from pizza order data. It includes:  
 - 📄 A PDF detailing the approach and results.  
 - 📂 Four CSV files with pizza details and order data.  
@@ -14,7 +13,7 @@ The primary goal of this project is to analyze the sales data, identify trends, 
 
 ## 🗂️ What's Inside
 1. **📂 Datasets**:  
-   Four CSV files containing detailed data on pizzas, ingredients, orders, and customer preferences.
+   Four CSV files containing detailed data on pizza_id, category, orders, and quantity.
 
 2. **❓ Questions and Solutions**:  
    - A set of business-relevant questions derived from the datasets.  
@@ -23,7 +22,7 @@ The primary goal of this project is to analyze the sales data, identify trends, 
 
 3. **🔍 Analysis Highlights**:  
    - Comprehensive insights into pizza sales and trends.  
-   - Solutions to real-world business problems, such as identifying top-performing pizzas, sales by region, and customer preferences.
+   - Solutions to real-world business problems, such as identifying top-performing pizzas, revenue, and customer preferences.
 
 ---
 
