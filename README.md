@@ -1,5 +1,6 @@
 # 🍕 Pizza Sales : SQL-Project
 
+![Screenshot 2025-01-12 211544](https://github.com/user-attachments/assets/63504e30-8a30-4708-83c2-b1690fc61fa1)
 
 ## 📖 Overview
 Welcome to the **SQL-Sales-Project** repository!  
