@@ -32,6 +32,7 @@ The primary goal of this project is to analyze the sales data, identify trends, 
 - **📊 SQL**: Used for querying and analyzing the data.  
 - **🖥️ Database Systems**: SQL-based databases for handling the datasets.  
 - **📄 Documentation**: PDF created for detailed reporting of the analysis.
+-
 ![Screenshot 2025-01-12 211722](https://github.com/user-attachments/assets/417a7ea4-336c-481b-b31c-1c65ec5ab953)
 PDF Link: https://github.com/Jayantaxnath/SQL-Sales-Project/blob/main/SQL%20Project%20Pizza%20Sales.pdf
 ---
